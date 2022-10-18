@@ -22,6 +22,13 @@
 
   <h2>Blue&Verdant propose des conseils en stratégie, digital & développement.</h2></center>
 
+  
+<img src="blue_verdant_image_1.JPG"alt="Blue&Verdant" height="100" width="100"/>
+
+<img src="blue_verdant_image_2.JPG"alt="Blue&Verdant" height="100" width="100"/>
+
+<img src="blue_verdant_image_3.JPG"alt="Blue&Verdant" height="100" width="100"/>
+  
 <!-- https://pixabay.com/fr/photos/l-%c3%a9l%c3%a9phant-tronc-d%c3%a9fenses-for%c3%aat-1822636/ -->
 
 <p>
