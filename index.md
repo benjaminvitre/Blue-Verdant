@@ -27,7 +27,7 @@
 
 <p>
 <i>
-Depuis 2016, nous conseillons des startups, groupes industriels, fonds d'investissements et cabinets de conseils dans leurs stratégies.
+Depuis 2016, nous conseillons des startups, groupes industriels, fonds d'investissements et cabinets de conseils.
 </i>
 </p>
 <h3>Notre approche</h3>
