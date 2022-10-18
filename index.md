@@ -35,14 +35,12 @@ Depuis 2016, nous conseillons des startups, groupes industriels, fonds d'investi
 <p>
   <b>Blue</b> : délivrer de la valeur en explorant de nouveaux marchés & approches
 <br>
-<br>
 - Nous nous inscrivons dans la logique de la stratégie “Blue ocean”.
 <br>
 - Nous favorisons l’innovation pragmatique & disruptive.
 </p>
 <p>
 <b>Verdant</b> : une responsabilité environnementale & sociétale.
-<br>
 <br>
 - Notre démarche est éthique & responsable vis-à-vis de la société.
 <br>
