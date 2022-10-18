@@ -49,9 +49,9 @@ Depuis 2016, nous conseillons des startups, groupes industriels, fonds d'investi
 
 <h3>Nos références</h3>
 <p>
-Projets : acquisition de sociétés, levées de fonds, création de startup e-santé, développement de moteur recherche, développements de plateformes / applications,...
-<br>
-Clients : Alphasights, Atheneum, C&L, Dialectica, FDS, Petite Question, GLG, Guidepoint,...
+  <b>Projets</b> : acquisition de sociétés, levées de fonds, création de startup e-santé, développement de moteur recherche, développements de plateformes / applications,...</p>
+<p>
+  <b>Clients</b> : Alphasights, Atheneum, C&L, Dialectica, FDS, Petite Question, GLG, Guidepoint,...
 </p>
 
 <h3>Contact</h3>
