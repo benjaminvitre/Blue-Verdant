@@ -49,7 +49,7 @@ Depuis 2016, nous conseillons des startups, groupes industriels, fonds d'investi
 
 <h3>Nos références</h3>
 <p>
-  <b>Projets</b> : acquisition de société, levée de fonds, création de startup, développement de moteur de recherche, plateformes SaaS, applications,...</p>
+  <b>Projets</b> : acquisition de sociétés, levée de fonds, transformation digitale, développement de plateformes SaaS, applications,...</p>
 <p>
   <b>Clients</b> : Alphasights, Atheneum, C&L, Dialectica, FDS, Petite Question, GLG, Guidepoint,...
 </p>
