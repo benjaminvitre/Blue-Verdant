@@ -51,7 +51,7 @@ Depuis 2016, nous conseillons des startups, groupes industriels, fonds d'investi
 
 <h3>Nos références</h3>
 <p>
-Projets : acquisition de sociétés, levées de fonds pour une startup d'e-santé, levée de fonds pour une startup spécialisée dans le moteur recherche, développements de plateformes / applications,...
+Projets : acquisition de sociétés, levées de fonds, création de startup e-santé, développement moteur recherche, développements de plateformes / applications,...
 <br>
 Clients : Alphasights, Atheneum, C&L, Dialectica, FDS, Petite Question, GLG, Guidepoint,...
 </p>
@@ -67,16 +67,6 @@ Email : <u>benjamin.vitre@gmail.com</u>
 <p>
 © Blue&Verdant
 </p>
-
-  <p>
-<img src="blue_verdant_image_1.JPG"alt="Blue&Verdant" height="100" width="100"/>
-  </p>
-  <p>
-<img src="blue_verdant_image_2.JPG"alt="Blue&Verdant" height="100" width="100"/>
-  </p>
-  <p>
-<img src="blue_verdant_image_3.JPG"alt="Blue&Verdant" height="100" width="100"/>
-  </p>
   
 </body>
 </html>
