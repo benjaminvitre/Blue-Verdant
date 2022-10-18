@@ -46,7 +46,7 @@ Depuis 2016, nous conseillons des startups, groupes industriels, fonds d'investi
 <br>
 - Notre démarche est éthique & responsable vis-à-vis de la société.
 <br>
-- Nous combinons réactivité & vision de long terme.
+- Nous reversons 10% de nos bénéfices à des associations engagées pour l'environnement.
 </p>
 
 <h3>Nos références</h3>
