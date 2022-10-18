@@ -20,7 +20,7 @@
 
 <body>
 
-  <h2>Blue&Verdant propose des conseils en stratégie, digital & développement.</h2></center>
+  <h2>Blue&Verdant propose des conseils en stratégie, digital & développement.</h2>
 
   
 <img src="blue_verdant_image_1.JPG"alt="Blue&Verdant" height="100" width="100"/>
